@@ -1,9 +1,9 @@
-# gh-template-base
+# golang-template
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wolffaxn/gh-template-base/main.svg)](https://github.com/wolffaxn/gh-template-base)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wolffaxn/golang-template/main.svg)](https://github.com/wolffaxn/golang-template)
 
-> Template repository for starting new projects.
+> A Golang template.
 
 ## License
 
